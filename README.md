@@ -24,3 +24,6 @@ public class GetterSetterExample {
         System.out.println("Student Age: " + student.getAge());
     }
 }
+Output 
+Student Name: John
+Student Age: 18
